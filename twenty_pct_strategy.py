@@ -31,7 +31,7 @@ pip install quandl
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
-import os
+# import os
 from pandasql import *
 from time import sleep
 from IPython.display import clear_output
@@ -46,7 +46,7 @@ from datetime import date,timedelta,datetime
 import quandl
 import matplotlib.pyplot as plt
 plt.style.use('fivethirtyeight')
-import numpy as np
+# import numpy as np
 
 
 # In[64]:
@@ -58,7 +58,7 @@ from bsedata.bse import BSE
 # In[65]:
 
 
-os. chdir(r'C:\karanDirectories\Fundamental_analysis\twenty_pct_tradingStr')
+# os. chdir(r'C:\karanDirectories\Fundamental_analysis\twenty_pct_tradingStr')
 
 
 # In[66]:
