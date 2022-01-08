@@ -6,6 +6,5 @@ pandas
 matplotlib
 numpy
 pandasql
-time
 IPython
 datetime
