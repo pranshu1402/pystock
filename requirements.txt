@@ -1,0 +1,12 @@
+bsedata
+pandasql
+nsepy
+quandl
+pandas
+matplotlib
+numpy
+os
+pandasql
+time
+IPython
+datetime
